@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">PlayWings</string>
+    <string name="beer_name">맥주이름: %1$s</string>
+    <string name="beer_tag">테그: %1$s</string>
+    <string name="first_brewed">최초 생산: %1$s</string>
+    <string name="payment">구매하기</string>
+    <string name="buy_now">결제하기</string>
+    <string name="hint_add_name">이름을 입력하세요</string>
+</resources>
+

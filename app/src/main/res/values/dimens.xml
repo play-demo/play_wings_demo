@@ -1,0 +1,8 @@
+<resources>
+    <dimen name="standard_margin">16dp</dimen>
+    <dimen name="half_standard_margin">8dp</dimen>
+    <dimen name="list_height">100dp</dimen>
+    <dimen name="margin_5dp">5dp</dimen>
+    <dimen name="list_image_size">50dp</dimen>
+
+</resources>
